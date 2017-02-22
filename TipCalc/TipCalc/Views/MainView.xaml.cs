@@ -34,6 +34,7 @@ namespace TipCalc.Views
             TipPercent.TextChanged += (sender, e) =>
             {
                 _info.TipPercent = Parse(TipPercent.Text);
+                TipPercentSlider.Value = (double)Parse(TipPercent.Text);
             };
 
             STotal.TextChanged += (sender, e) =>

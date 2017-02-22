@@ -15,5 +15,3 @@ C:\Users\joselm\Documents\Visual Studio 2015\Projects\TipCalc\TipCalc\TipCalc\ob
 C:\Users\joselm\Documents\Visual Studio 2015\Projects\TipCalc\TipCalc\TipCalc\obj\Debug\TipCalc.pdb
 C:\Users\joselm\Documents\Visual Studio 2015\Projects\TipCalc\TipCalc\TipCalc\obj\Debug\TipCalc.dll.mdb
 C:\Users\joselm\Documents\Visual Studio 2015\Projects\TipCalc\TipCalc\TipCalc\bin\Debug\TipCalc.dll.mdb
-C:\Users\joselm\Documents\Visual Studio 2015\Projects\TipCalc\TipCalc\TipCalc\obj\Debug\TipCalc.dll.mdb
-C:\Users\joselm\Documents\Visual Studio 2015\Projects\TipCalc\TipCalc\TipCalc\bin\Debug\TipCalc.dll.mdb
